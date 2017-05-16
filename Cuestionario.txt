@@ -1,0 +1,39 @@
+Cuestionario 1.1
+1.-Escribe lo que entiendes por web semántica
+2.-Menciona dos ejemplos de evolución de etiquetas
+3.- Explica el modelo conceptual de funcionamiento de CSS
+4.- Menciona la importancia de CSS y sus principios
+5.- ¿Qué es un selector?
+6. Asigna para la clase “saludo” un fondo de color, texto resaltado (sólo escribe la parte de css)
+
+Respuestas
+1.-
+	La web semantica, es el tercer intento de mejorar, la web, despues de la fase de las redes sociales.
+	La idea de la web semantica es, que de alguna manera, todo este conectado desde el momento en que es implementado en la red.
+
+2.-
+	<ins> eoluciono a <mark>, ambos son para subrayar, sin embargo, la segunda tiene valor semantico.
+	<i> eoluciono a <cite>, ambos tienen un uso relativo para citar, sin embargo, la segunda tiene valor semantico.
+3.-
+	Analizar un documento,
+	identificar el medio,
+	recupera las hojas de estilo,
+	tomar elementos de la estructura del documento,
+	asigna el valor a cada elemento,
+	uso de mecanismos de cascada y herencia,
+	genera una estructura de formato,
+	ransfiere estructuras de formato
+	soporte del destino.
+
+4.-
+	Accesibilidad
+	Sencillez
+	Flexibilidad
+	Mantenibilidad
+	Compatibilidad
+5.-
+	Dentro del css, el selector se refiere a aquel elemento al que se le desea poner el estilo.
+6.-
+	.saludo{
+	background-color: indianred;
+	}
