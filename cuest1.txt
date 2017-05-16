@@ -1,0 +1,21 @@
+Cuestionario 1.1
+1.-Escribe lo que entiendes por web semántica
+	Es lo que busca el navegador. Las etiquetas funcionales para la búsqueda
+2.-Menciona dos ejemplos de evolución de etiquetas
+	<mark>
+	<small>
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	Trabaja a partir de padres y herencias, elementos dentro de elementos a los que se les pasan los atributos, va de particular a lo general.
+	
+4.- Menciona la importancia de CSS y sus principios
+	ayuda a interactuar con el usuario, entre su rpincipio esta flexibilidad y herencia
+5.- ¿Qué es un selector?
+	es la clase, id, o etiqueta porla que identificamos en el CSS
+6. Asigna para la clase “saludo” un fondo de color, texto resaltado (sólo escribe la parte de css)  
+.saludo{
+	backgorund-color:red;
+}                                                        <div>
+	<p class="saludo">
+	<strong>hello</strong>
+	</p>
+</div>                                                                                                                                                                                                                                     
