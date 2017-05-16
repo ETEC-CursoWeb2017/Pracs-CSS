@@ -1,0 +1,28 @@
+Cuestionario 1.1
+1.-Escribe lo que entiendes por web semántica
+
+Se le da un mayor significado a las etiquetas que se usen en HTML5 y su contenido.
+
+2.-Menciona dos ejemplos de evolución de etiquetas
+
+Cambio de la etiqueta d a time y que esta tenga el atributo datetime
+Etiqueta b con etiqueta strong
+
+3.- Explica el modelo conceptual de funcionamiento de CSS
+
+Analisis de documento fuente, identifica tipo de medio, recuperación de hojas de estilo, anotación de elementos de la estructura del documento, asignación de valor único para czada propiedad, mecanismos de cascada y herencia, generación de estructura de formato, transferrencia de estructura de formato y soporte del destino.
+
+4.- Menciona la importancia de CSS y sus principios
+
+Flexibilidad, accesibilidad,sencillez, simpleza, mantenibilidad, buen rendimiento, compatibilidad
+
+5.- ¿Qué es un selector?
+
+Es el que selecciona etiquetas y atributos dependiendo del nombre y valores que tengan.
+
+6. Asigna para la clase “saludo” un fondo de color, texto resaltado (sólo escribe la parte de css)
+
+.saludo
+{
+	background-color:cyan;
+}
