@@ -1,0 +1,17 @@
+Cuestionario 1.1
+1.-Escribe lo que entiendes por web semántica
+	-Descripcion explicitas sobre el significado de los recursos
+2.-Menciona dos ejemplos de evolución de etiquetas
+	-<mark></mark>
+	 <cite></cite>
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	-Reconoce la etiqueta en el codigo original y luego le pone los valores de estilado deseado
+4.- Menciona la importancia de CSS y sus principios
+	-Simple,Manteniabilidad,Rendimiento de Red,Flexibilidad,Enlaces de Lenguaje Alterno,Accesible y Reglas y Declaraciones
+		Su importancia se basas en que se usa para muchos formas de 
+5.- ¿Qué es un selector?
+	-Es la etiqueta en un documento CSS a la que se le asignara una propiedad con un valor 
+6. Asigna para la clase “saludo” un fondo de color, texto resaltado (sólo escribe la parte de css)
+	-.saludo{
+		background-color:blue;
+		}
