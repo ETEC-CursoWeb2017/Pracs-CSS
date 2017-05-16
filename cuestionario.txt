@@ -1,0 +1,30 @@
+1.-Describe por lo menos tres etiquetas de web semántica
+	header
+		dalugar al titulo, ligera descripcion y logo del tema
+	footer
+		la parte final de la pagina, creditos
+	aside
+		es donde s ecolocan los elementos releacionables pero no exactamente del mismo tema, pueden ser enlaces
+2.- Definición de CSS
+	es un metodo de estilado que usa jerarquias entre etiquetas
+3.- Explica el modelo conceptual de funcionamiento de CSS
+		analiza un documento, identifica el medio, usa las hojas llamadas, toma elementos de la estructura, asigna un valor a caqda elemento, s efija en las jerarquis ,genera una estructura de formato, transfiere los datos de la shojas, el destino soporta la entrada.
+4.- ¿Qué es una regla y cuáles son sus componentes?
+	esta compuest apor el atributo y s u asignacion.es la manera de usar el css.
+
+5.- Menciona la importancia de CSS y sus principios
+	flexibilidad
+	accesibilidad
+	sencillez
+	simpleza
+	rendimiento
+	compatibilidad
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+
+	<form>
+		<input type="text" value="nombre"></input>
+		<input type="text" value="apellido"></input>
+		<input type="password" value="contraseña"></input>
+		<input type="submit"/>
+
+	</form>
