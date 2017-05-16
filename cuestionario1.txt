@@ -1,0 +1,28 @@
+Cuestionario 1.2
+1.-Describe por lo menos tres etiquetas de web semántica
+	<mark>algo</mark>--- remarca el texto pero influye en la búsqueda del navegador
+	<small>algo</small>--- hace el texto pequeño pero es principalmente para expresiones legales 
+	<figurecaption>algo</figurecaption>-- le da a la imagen una carga y al buscar en el navegador es más fácil que salga
+2.- Definición de CSS
+	Hoja de estilos en cascada, cascada porque las etiquetas están identadas y van dependiendo 
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	Es el selector{
+		declaracion
+Atributo:valor;
+}  el selector puede ser complejo o no y se refiere a la etiqueta,  el atributo es lo que quieres modificar de esa etiqueta y el valor es que que tomara el atributo
+4.- ¿Qué es una regla y cuáles son sus componentes?
+	Pues es similar a la de arriba, se debe de poner  el selector que es la etiqueta a la que me refiero o quiero aplicarlo y posteriormente pones lo que quieres modificar  y que valor quieres que tenga 
+5.- Menciona la importancia de CSS y sus principios
+	Es importante porque le da vida a una página y se nota al ver como van cambiando las páginas a través del tiempo, debe de ser fácil de dar mantenimiento, ser amigable con el usuario, flexible, entendible etc.
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+<section>
+	<form >
+		<label>Nombre:</label>
+		<input  type=’text’  name=’nom’ autocomplete=’on’ autofocus/>
+		<label>Apellido Paterno:</label>
+		<input  type=’text’ name=’ap’ autocomplete=’on’/>
+		<label>Contraseña:</label>
+		<input  type=’password’ name=’pass’ pattern="(?=.*\d)(?=.*[a-Z]).{8,}"/>
+		<input  type=’submit’/>
+	</form>
+</section>
