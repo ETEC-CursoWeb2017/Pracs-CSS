@@ -1,0 +1,21 @@
+1.
+<nav> menu de navegacion
+<header> cabezera
+2. 
+Cascading style sheet
+pagina de estilado para el html
+3.
+selector{
+	valores;
+}
+4.
+compuesta por selector y declaracion(compuesta por atributo y propiedad) 
+5.
+poder hacer el estilado de todas las paginas web con mayor fascilidad y uniformidad, legebilidad
+6.
+<form>
+	<input type='text' name='nombre'  autofoucs='on'/>
+	<input type='text' name='nombre'/>
+	<input type='password' name='nombre'/>
+	<input type='submit'/>
+</form>
