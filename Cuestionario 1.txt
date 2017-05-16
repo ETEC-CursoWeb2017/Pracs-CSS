@@ -1,0 +1,25 @@
+Cuestionario 1.2
+1.-Describe por lo menos tres etiquetas de web semántica
+	R = <mark></mark>//MARCA TEXTO TIENE SEMÁNTICA.
+		<small></small>//HACE PEQUEÑO EL TEXTO, SE PONEN LAS DEPENDENCIAS, COMO IMPRESIONES LEGALES, INSTITUCIONES.
+		<cite></cite>//CITAS TEXTUALES.
+		<figure>//TIENE CARGA SEMANTICA, AL PONER EL MENSAJE DE LA IMAGEN, LE DA UNA CARGA SEMANTICA Y EL NAVEGADOR LO CONSIDERA PARA EL MOTOR DE BUSQUEDA.
+2.- Definición de CSS
+	R = "Cascade Style Sheets" en español "Hoja de Estilos en cascada"
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	R = "Funciona con un codigo, que a traves de selectores va modificando los atributos seleccionados del HTML, es ejecutado por el navegador para dar estilo"
+4.- ¿Qué es una regla y cuáles son sus componentes?
+	R = "CSS se rige a traves de reglas, la regla tiene dos partes, selector y elemento , por ejemplo:
+			selector{//elementos
+				atributo:valor }"
+5.- Menciona la importancia de CSS y sus principios
+	R = "CSS es importante especialmente para el usuario. CSS es flexible y permite darle estilo al documento HTML, el CSS trata de facilitar la vida"
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+	R = <section>
+			<form>
+				<input type="name" name="nombre" autocomplete="on" placeholder="Nombre"/>
+				<input type="name" name="appat" autocomplete="on" placeholder="Apellido Paterno"/>
+				<input type="password" name="contra" pattern="(?=.*\d)(?=.*[a-z](?=.*[A-Z]).{8,})"/>
+				<input type="submit"/>
+			</form>
+		</section>
