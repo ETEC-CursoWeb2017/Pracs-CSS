@@ -1,0 +1,27 @@
+1.-Describe por lo menos tres etiquetas de web semántica
+	<mark></mark>
+	<strong></strong>
+	<small></small>
+2.- Definición de CSS
+	Cascading Style Sheets
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	CSS analiza el maquetado, y crea un árbol de documentos, identifica cada tipo de medio y recupera hojas de estilo 	asociadas,identifica los elementos del maquetado, asigna un sólo valor a cada propiedad,en forma de cascada y 	herencia genera un tipo formato y lo transfiere al navegador.
+4.- ¿Qué es una regla y cuáles son sus componentes?
+	Una regla está conformada por un selector que tiene una propiedad y un valor
+5.- Menciona la importancia de CSS y sus principios
+	Simplicidad,Mantenibilidad,Rendimiento de la red,Flexibilidad, Enlaces de lenguaje alternativo,Accesibilidad
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+	<!DOCTYPE HTML>
+	<html lang="es">
+	<head>
+		<meta charset="UTF-8"/>
+	</head>
+	<body>
+		<form>
+			Nombre:<input type="text" name="nom" autofocus autocomplete="on"/>
+			Apellido:<input type="text" name="ap" placeholder="Ap.Materno" autocomplete="on"/>
+			Contraseña:<input type="password" name="pas"/>
+			<input type="submit"/>
+		</form>
+	</body>
+	</html>
