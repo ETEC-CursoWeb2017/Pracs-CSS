@@ -1,4 +1,5 @@
 <!DOCTYPE>
+<html>
 	<head>
 		<title>
 			Práctica1 
@@ -8,42 +9,51 @@
 	<body>
 	<header>
 		<h1>Mi blog con html 5</h1>
-		<p>16-05-2017</p>
+		<time datetime='2017-05-16'>
+			16-05-2017
+		</time>
 	</header>
-	<ul>
-		<li>Inicio</li>
-		<li>Acerca de nosotros</li>
-		<li>Contacto</li>
-	</ul>
-	<p>
-		HTML5[a] is a markup language used for structuring 
-		and presenting content on the World Wide Web. It is 
-		the fifth and current version of the HTML standard.
-	</p>
-	<p>
-		It was published in October 2014 by the World Wide
-		Web Consortium (W3C)[2][4] to improve the language
-		with support for the latest multimedia, while keeping
-		it both easily readable by humans and consistently 
-		understood by computers and devices such as web browsers,
-		parsers, etc. HTML5 is intended to subsume not only HTML 4,
-		but also XHTML 1 and DOM Level 2 HTML.[5]
-	</p>
-	<img src="html5.png">
-	<p>
+	<nav>
+		<ul>
+			<li>Inicio</li>
+			<li>Acerca de nosotros</li>
+			<li>Contacto</li>
+		</ul>
+	</nav>
+	<article>
+		<p>
+			HTML5[a] is a markup language used for structuring 
+			and presenting content on the World Wide Web. It is 
+			the fifth and current version of the HTML standard.
+		</p>
+		<p>
+			It was published in October 2014 by the World Wide
+			Web Consortium (W3C)[2][4] to improve the language
+			with support for the latest multimedia, while keeping
+			it both easily readable by humans and consistently 
+			understood by computers and devices such as web browsers,
+			parsers, etc. HTML5 is intended to subsume not only HTML 4,
+			but also XHTML 1 and DOM Level 2 HTML.[5]
+		</p>
+	</article>
+	<figure>
+		<img src="html5.png">
+		<figcaption>
+			html5
+		</figcaption>
+	</figure>
+	<aside>
 		Sitios de interés
 		<a href="https://dev.w3.org/html5/html-author/">Documentación</a>
 		<a href="http://thepatternlibrary.com/">Fondos lindos</a>
 		<a href="https://www.materialpalette.com/">Paletas de colores</a>
 		<a href="https://bestvpn.org/whats-my-ip/">Compatibilidad</a>
-	<p>
-	<p>	
-		Blog creado por alumnos del curso web 2017. Todos los derechos reservados.
-	</p>
-	<p>
-		Mensajes de foro
-		<!--formulario iría aquí-->
-	</p>
+	</aside>
+	Mensajes de foro
+		<input type="text" autofocus/>
+	<footer>	
+		<small>Blog creado por alumnos del curso web 2017. Todos los derechos reservados.</small>
+	</footer>
 	</body>
 </html>
 
