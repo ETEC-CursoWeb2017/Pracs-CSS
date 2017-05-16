@@ -1,0 +1,24 @@
+Cuestionario 1.2
+1.-Describe por lo menos tres etiquetas de web semántica
+R: type="search", permite insertar un dato para realizar una búsqueda.
+type="url", permite insertar una dirección.
+type="email", permite insertar una dirección de correo electrónico.
+2.- Definición de CSS
+R: Cascade Style Sheet, Hoja de Estilados en Cascada,
+3.- Explica el modelo conceptual de funcionamiento de CSS
+R: Selector(elemento del archivo HTML) {
+	propiedad(atributo aplicado): valor(cualidad del atributo);
+}
+4.- ¿Qué es una regla y cuáles son sus componentes?
+R: Es la manera en como están declaradas los atributos en el CSS.
+Sus componentes son: Selector, propiedad y valor.
+5.- Menciona la importancia de CSS y sus principios
+R: Es un lenguaje que permite estilar una página web, haciéndola más legible y cómoda para el usuario.
+Simplicidad, mantenibilidad, rendimiento de la red, flexibilidad, enlaces de lenguaje alternativos, accesibilidad.
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+R: <form autocomplete="on">
+	Nombre: <input type="text" autofocus/>
+	Apelliido paterno: <input type="text"/>
+	Contraseña: <input="password" autocomplete="off" patterm="(?=.*\w){,8}"/>
+	<input type="submit"/>
+</form>
