@@ -1,0 +1,27 @@
+Cuestionario 1.2
+1.-Describe por lo menos tres etiquetas de web semántica
+<em>
+<strog>
+<mark>
+2.- Definición de CSS
+Cascading Styling Sheet. Es un estilado caracterisado en un sistema de cascada basado en su propiedad de herencia.
+3.- Explica el modelo conceptual de funcionamiento de CSS
+Funciona a través de un código necesariamente identado. A través de sus selectores de tipo clase y id. Y puede ser ocupado en html a través de:
+-enlace a archivo .css
+-etiqueta <style>
+-a cada etiqueta que lo use
+4.- ¿Qué es una regla y cuáles son sus componentes?
+No recuerdo bien la definicion de regla. Pero me imagino que es la sintaxis que se tiene que seguir a la hora de decidir aplicar cierto estilado a una etiqueta, clase o id seleccionados por el programador. Como :"p.aviso,p.destacado{color:blue}", en base a su declaracion.
+5.- Menciona la importancia de CSS y sus principios
+Es muy necesario debido a las pocas etiquetas de html dedicadas al estilado.
+Tiene una gran flexibilidad.
+Y permite administrar el estilado a través de la herncia entre etiquetas, clases y id.
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+<section>
+	<form method="POST" autocomplete="on">
+		<input type="text" placeholder="Nombre" name="nom" min="2" autofocus patter="regex de contraseña" patter="[A-Z][A-z]{2,}"/>
+		<input type="text" placeholder="Apellido paterno" min="2" name="ape" patter="[A-Z][A-z]{2,}"/>
+		<input type="password" placeholder="Contraseña" min="8" name="con" patter="regex de contraseña{8,}" autocomplete="off" />
+		<input type="submit" value="Enviar informacion"/>
+	</form>
+<section>
