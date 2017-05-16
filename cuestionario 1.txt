@@ -1,0 +1,30 @@
+Cuestionario 1.1
+
+1.-Escribe lo que entiendes por web semántica
+Es una WEB estructurada por etiquetas explicitas, que permite su manejo de manera sencilla, ordenada, asi como una mayor eficiencia en su mantenimiento.
+
+2.-Menciona dos ejemplos de evolución de etiquetas.
+<header>
+<nav>
+<footer>
+
+3.- Explica el modelo conceptual de funcionamiento de CSS
+Analiza el documento, y en base al mismo crea un arbol, identifica el tipo de medio, y en base a un sistema de cascada y herencia modifica de manera especifica
+
+
+4.- Menciona la importancia de CSS y sus principios
+CSS, radica en la facilidad de personalizacion y alcance que tiene enfocada en el diseño, a diferencia de HTML, en donde el diseño no es prioridad
+Principios: El modelado manera especifica, sustituye a el modelado general, intuitivo.
+
+
+5.- ¿Qué es un selector?
+Es una herramienta del css que nos permite trabajar de manera especifica con los elementos del HTML desde el CSS.
+Un identificador de algun objeto, como su clase, id e incluso tag o etiqueta.
+
+
+6. Asigna para la clase “saludo” un fondo de color, texto resaltado (sólo escribe la parte de css)
+
+.saludo{
+background-color: RED;
+text: strong
+}
