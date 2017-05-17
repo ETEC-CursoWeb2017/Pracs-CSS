@@ -1,0 +1,29 @@
+h1[id]
+{
+	background-color:navy;
+	color:white;
+}
+p > a
+{
+	background-color:gold;
+}
+h1+h2
+{
+	background-color:green;
+	color:white;
+}
+ul li
+{
+	background-color:black;
+	color:white;
+}
+tr td
+{
+	background-color:purple;
+	color:white;
+}
+.Encabezado
+{
+	background-color:red;
+	color:white;
+}
