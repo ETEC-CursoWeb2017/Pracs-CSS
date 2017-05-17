@@ -1,0 +1,20 @@
+body{
+		background-color:gray;
+}
+h1[id]{
+	color:#000099;
+	border:solid;
+}
+center>a{
+	color:orange;
+	font-size:20px;
+}
+ul li{
+	color:brown;
+}
+.best{
+	color:gold;
+}
+h2+h3{
+	color:white;
+}
