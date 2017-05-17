@@ -1,0 +1,15 @@
+body
+{
+	text-align:center;
+	font-size:40px;
+	background-color:black;
+	color:white;
+}
+.titulo
+{
+	color:red;
+}
+.espera
+{
+	color:cyan;
+}
