@@ -1,0 +1,29 @@
+Cuestionario 1.2
+1.-Describe por lo menos tres etiquetas de web semántica
+<footer></footer>Para poner los creditos de una pagina web.
+<section>Sirve para poner sobre lo que trata la página</section>
+<nav></nav>se refiere a la barra de navegacion.
+2.- Definición de CSS
+hojas de estilo que se le van a poner a las paginas de internet.
+3.- Explica el modelo conceptual de funcionamiento de CSS
+Analiza documento fuente-Da valores específicos para funciones específicas-Asigna los valores del documento fuente al documento receptor-Se aplican los valores y se muestra al usuario
+4.- ¿Qué es una regla y cuáles son sus componentes?
+regla:Selector y declaracion
+selector{
+	propiedad:valor;
+}
+5.- Menciona la importancia de CSS y sus principios
+Se puede ejecutar de manera mas rápida y ahorrar memoria
+simplicidad
+rendimiento de la red
+flexibilidad
+mantenibilidad
+enlaces de lenguaje alternativo 
+accesibilidad.
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+<form method="Post">
+	nombre:<input type="text" name="fname"></input>
+	apellido paterno:<input type="text" name="fapellido"></input>
+	contraseña:<input type="password" name="pas"></input>
+	<input type="submit"></input>
+</form>
