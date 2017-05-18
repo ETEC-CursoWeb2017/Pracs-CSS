@@ -1,0 +1,26 @@
+body
+{
+	background-color:#9900FF;
+	color:white;
+	margin:30px;
+}
+h1
+{
+	color:yellow;
+	text-align:center;
+	font-family:ButtonHighlight;
+	font-size:35px;
+}
+figure
+{
+	text-align:center;
+}
+footer
+{
+	color:#99FF00;
+	font-size:18px;
+}
+p
+{
+	font-size:20px;
+}
