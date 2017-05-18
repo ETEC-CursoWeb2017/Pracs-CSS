@@ -1,0 +1,14 @@
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+	hover activa un cambia al colocar un cursos rsobre un elemento y link marca los enlaces que no han sido usados
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+	el descendente no depende directamente de la herencia instantanea, el hijo sí
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+4.- Describe cómo funciona la herencia en CSS
+	pues, el estilado de un padre afecta a un hijo , a menos de que a este hijo se le dé un estilado más específico
+5.-Explica brevemente el modelo de cajas de CSS
+	presenta la idea de que todo se encuentra de un margen y este dentro de un padding
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+	los selectores de clase s eusan para modficar multiples elemntos con diferentes formatos, de id para un elemento en específico, de descendencia y de hijo para trabajar con los elementos "internos " del padre
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+8.-Sean felices C:﻿
+	no se puede sin el amor de ella :,(
