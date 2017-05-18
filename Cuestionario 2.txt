@@ -1,0 +1,25 @@
+Hola chicos!
+Disculpen la demora.
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+	-:hover e cuando pasa el mouse y :link si aun no se visita el link
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+	-DESCENTE engloba a toda la desendencia de el selector
+	Hijo solo engloba al primer valor ligado
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+4.- Describe cómo funciona la herencia en CSS
+	-DEpende que las tiquetas que contengan y en el orden que esten ya que no es lo mismo "p a" a "a p"
+5.-Explica brevemente el modelo de cajas de CSS
+	-Padding es el relleno
+	Boder-borde de todo el contenido
+	Margin separacion entre cajas
+	Content:contenido
+	
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+	CLASE "." Todos los que tengan una class especifica
+	ID "#" Todos los elementos que tengan un Id especifico
+	DESENDENCIA "p span" Todos los elementos span que esten dentro de pasa
+	HIJO p>a Sola la primera a que sea hijo de p
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+	-<progress> Representa el progreso de finalización de una tarea
+	<command> Representa un comando que un usuario puede invocar.
+8.-Sean felices C:
