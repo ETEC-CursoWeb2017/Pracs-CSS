@@ -1,0 +1,46 @@
+﻿1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+Elemento:hover ---- se activa ese estilo cuando el mouse pasa por el elemento 
+Elemento:link----el elemento toma ese estilo cuando no se ha visitado la página 
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+El selector descendente se refiere solo al primer hijo y el selector hijo se refiere a todos 
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+P[class=”destacado”]	{
+			font-size:
+			background:
+	}
+
+4.- Describe cómo funciona la herencia en CSS
+Por ejemplo body es el padre y de todos, div es una de sus hijos y puede tener el mismo css heredado de su padre pero puede rechazar lo que no quiera, lo especifico suple a lo general
+5.-Explica brevemente el modelo de cajas de CSS
+Se refieren a los espacios de una etiqueta pos así decirlo, está el contenido  y luego vienen el padding (espacio entre el contenido y el borde de la etiqueta), luego está el margin que es el espacio entre la etiqueta y otra etiqueta 
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+#id{algo} solo puede haber uno
+.class {algo} una clase puede estar en varias etiquetas
+P > span {algo} descendencia, sólo incluye al primer hijo
+P*span {algo}incluye a todos los hijos 
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hijos</title>
+		<meta charset="UTF-8"/>
+		<script type="text/javascript" src="jquery-3.2.1.js"></script>
+	</head>
+	<body>
+		<header>
+			<main>
+			Parte  más importante del body
+			<main>
+
+		</header>
+		<nav>
+		</nav>
+		<section>
+			<blockquote cite=”url”> cita en bloque</blockquote>
+		</section>
+		<footer>
+			<address>contacto</address>
+		</footer>
+</body>
+</html>
+8.-Sean felices C:

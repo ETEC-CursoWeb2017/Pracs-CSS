@@ -1,0 +1,13 @@
+h1{color:pink;}
+h2{color:yellow;}
+h1+h2{color:green;} 
+span[class="externo"]{color:fuchsia;} 
+p span span{background-color:blue; color:white;}
+p > span{color:blue;}
+.color
+{
+	background-color:red;
+}
+a{color:green;}
+a:hover{color:white; background-color:#CC0000;}
+a:visited{color:#CCCCCC;}
