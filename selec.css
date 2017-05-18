@@ -1,0 +1,31 @@
+h1
+{
+	color:orange;
+	text-align:center;
+}
+p span
+{
+	color:red;
+	font-family:Arial;
+}
+h2+h3
+{
+	color:white;
+	background-color:purple;
+}
+ul>li
+{
+	color:green;
+}
+.desc
+{
+	color:blue;
+	font-size:23px;
+}
+a[href="ejemplo.com"]
+{
+	color:white;
+	background-color:red;
+	font-family:ButtonHighlight;
+	font-size:35px;
+}
