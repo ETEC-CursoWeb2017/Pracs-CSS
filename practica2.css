@@ -1,0 +1,43 @@
+h2[id]
+{
+	font-family:Arial;
+	font-size:30px;
+	text-align:left;
+	color:#2874A6;
+}
+h1[id]
+{
+	font-family:Arial;
+	font-size:30px;
+	text-align:left;
+	color:purple;
+}
+p > a
+{
+	background-color:#5499C7;
+	color:white;
+	text-align:left;
+
+}
+h1 + h2 
+{
+	text-align:left;
+	color:red;
+}
+
+ul li
+{
+	background-color:#DAF7A6;
+	color:chocolate;
+}
+tr th
+{
+	background-color:gold;
+	color:white;
+}
+.depor
+{
+	font-size:20px;
+	color:skyblue;
+	text-align:left;
+}
