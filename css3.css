@@ -1,0 +1,10 @@
+p a:link{
+	color:#CC0000;
+}
+p a:hover{
+	color:#FFF;
+	background-color:#CC0000;
+}
+p a:visited{
+	color:#CCC
+}
