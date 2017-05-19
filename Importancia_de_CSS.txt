@@ -1,0 +1,4 @@
+En la pagina actual , ahora podemos ver que con el paso del tiempo y gracias 
+al uso de CSS, se hizo más simple, y es flexible para su edicion en cuestion del estilo,
+y por lo tanto también se reduce el tiempo de carga d la página y que a su vez esto 
+lo convierte en un sitio más accesible para los usuarios
