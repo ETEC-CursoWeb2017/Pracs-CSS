@@ -1,0 +1,21 @@
+p[class~=destacado]
+{
+	background-color:pink;
+}
+em span
+{
+	background-color:black;
+	color:white;
+}
+p>span
+{
+	Background-color:red;
+}
+.calibri
+{
+	font-family:calibri;
+}
+h1 + h2
+{
+	background-color:blue;
+}
