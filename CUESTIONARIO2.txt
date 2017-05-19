@@ -1,0 +1,51 @@
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+:hover hace que cuando el mouse pase sobre el elemento, este haga algo.
+:link sirve para marcar las ligas de una pagina que no han sido visitadas por el usuario aun.
+
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+El descendente: nos sirve para cuando ponemos dos selectores ..o clases tambien y queremos que afecte a los
+que esten relacionados con el segundo 
+	Ej. div aviso espan{...} --- aqui se modifican los span que esten en un div con
+		clase aviso
+El selector hijo: nos sirve para modificar solo al hijo de un dicho elemento no a los
+que esten relacionados con ese hijo 
+
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+	<!DOCTYPE HTML>
+	<html>
+	<head>
+		<meta charset="UTF-8"/>
+	</head>
+	<body>		<p class="texto destacado">HOLA BIENVENIDO! TE ESPERABAMOS</p>
+	</body>
+	</html>
+
+	ESTILADO
+	p[class~="destacado"]
+	{
+		background-color:pink;
+		font-family:fantasy;
+		font-size:20px;
+	}
+
+4.- Describe cómo funciona la herencia en CSS
+
+	El padre de los elementos hereda todas sus caracteristicas a sus hijos,pero cuando
+	se desee esto puede ser cambiando, con el simple hecho de ser más especifico y es 
+	aquí en donde entran los diferentes tipos de selectores.
+
+5.-Explica brevemente el modelo de cajas de CSS
+ Se compone de cajas que se dividen en 5 partes el content que es todolo que va en el maquetado,
+el padding es el espacio que hay entre el contenido y el borde; el border es el que encierra el content y el
+padding, el background color o image van detras del content y el padding, al final tenemos el margin
+que es la separacion que hay entre una caja y otra. 
+
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+El de clase:selecciona aquellos elementos de html que tengan como atributo class
+El de id:selecciona a un solo elemento que tenga como atributo id y su valor correspondiente; 
+solo afecta a uno, ya que el id es unico
+El de descendecia:sirve para seleccionar a los elementos que se encuentran dentro de otros
+El de hijo:se utiliza para seleccionar un elemento que es hhijo de otro
+
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+<progress> <embed> <main>

@@ -1,0 +1,31 @@
+header>h1
+{
+	text-align:center;
+	font-family:fantasy;
+}
+aside
+{
+	margin-left:80%;
+}
+a[href]
+{
+	font-size:20px;
+}
+.autor
+{
+	font-family:verdana;
+}
+div p
+{
+	font-family:sans-serif;
+}
+
+h1+p
+{
+	text-align:center;
+}
+#subti
+{
+	background-color:lightgray;
+	text-align:center;
+}
