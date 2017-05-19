@@ -1,0 +1,40 @@
+Hola chicos!
+Disculpen la demora.
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+4.- Describe cómo funciona la herencia en CSS
+5.-Explica brevemente el modelo de cajas de CSS
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+8.-Sean felices C:
+
+Respuestas
+
+1.-Hover hace que un tipo de estilado se active cuando el cursor se posicione sobre el elemento.
+	Link lo que hace es cambiar el estilo de hipervinculos, si ya han sido visitados o no.
+
+2.-Un selector hijo hace uso de la especificatividad y la herencia, apuntando a el hijo de un elmento a partir del padre.
+	Un selector descendiente solo se refiere a los elementos dependientes de otro.
+
+3.-	<p >PARRAFO 1</p>
+	<p class="destacado">PARRAFO 2</p>
+	<p >PARRAFO 3</p>
+
+	p{
+	background-color:"red";
+	font-size:2em;
+	font-family:windings;
+	}
+	.destacado{
+	background-color:blue;
+	}
+
+4.-La herencia es basicamente, la idea en que un elemento que se encuentra dentro de otro es su hijo, por lo tanto obtiene su estilo.
+
+5.-Se implemento como una manera de hacer mas maleable un html y su estilo, se basa en la idea de que todos los elementos son cuadros, y sus hijos parte de estos, conservando su propia caja.
+	Estas cajas consta elementalmente de: Padding, Border y margin principalmente.
+
+6.-Los de clase, seleccionan a aquellos elementos que tengan en el atributo class cierto valor; los de id, seleccionan a un elemento que tenga como atributo id este valor; los de decendencia se refieren a los elementos que existen dentro de otro, y el de hijo se refiere a aquel elemento que depende de otro, o es el mas cercano a este.
+
+7.-Gracias Alma.
