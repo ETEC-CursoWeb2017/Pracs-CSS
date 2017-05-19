@@ -1,0 +1,53 @@
+1.- Describe qué es lo que realizan las pseudo-clases  :hover y :link
+:hover cambia el estilado de un elemento cuando el mouse pasa por él.
+:link tiene un cierto estilado cuando el enlace no ha sido visitado por el usuario
+
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+El descendente va a aplicar la regla de CSS a todos los elementos que se encuentren dentro de otro. Mientras que el selector hijo solo va a aplicar la regla de CSS al primero.
+
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Cuestionario2</title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" type="css/text" href="estio.css"/>
+	</head>
+	<body>
+		<section>
+			<p class="destacado">
+				Esto es una prueba de estilado  de estilado desde el atributo class!!
+			</p>
+			<p class="normal">
+				Aqui el texto apareceria normal a menos que se modifique su atributo class desde css.
+			</p>
+		</section>
+	<body>
+</html>
+
+Archivo CSS:
+p[class="destacado"]
+{
+   font-family:Arial;
+   font-size:30px;
+   background-color:skyblue;
+}
+
+4.- Describe cómo funciona la herencia en CSS
+En la herencia de CSS siempre lo específico se verá reflejado antes que lo general, es decir si un elemento está dentro de otro elemento, el elemento interno heredará el estilado de su “padre”, a menos que se especifique un estilado especial para ese elemento, por lo que ya no tendrá el estilado que se le había heredado
+
+5.-Explica brevemente el modelo de cajas de CSS
+Modelo de Cajas
+	Contenido (content): contenido HTML del elemento.
+	Relleno (padding) : espacio libre opcional existente entre el contenido y el borde.
+	Borde (border): línea que encierra al contenido. 
+	Imagen de fondo (background-image): opcional, imagen que se muestra detrás del contenido.
+	Color de fondo (background-color): opcional, color que se muestra detrás del contenido.
+	Margen (margin): separación opcional entre cajas adyacentes.
+
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+	Selectores de clase: Buscan uno o varios elementos basándose en el contenido de su atributo class, a los cuales les aplicará un estilado específico.
+	Selectores de id: Buscan un elemento, basándose en su atributo id, al cual le aplicará un estilado.
+	Selectores de descendencia: sólo importa que un elemento esté dentro de otro, independientemente de lo profundo que se encuentre y se aplica el estilo a todo, por ejemplo p a, se aplicara estilo a todos los a
+	dentro de p.
+	Selectores de hijos:Se trata de un selector similar al selector descendente, pero muy diferente en su funcionamiento. Se utiliza para seleccionar un elemento que es hijo de otro elemento y se indica mediante el "signo de mayor que" (>).
