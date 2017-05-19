@@ -1,0 +1,31 @@
+Actividad 1. 
+	¡Muy bien!
+	Lograste de manera adecuada los objetivos de la actividad. C:
+Cuestionario 1.
+	Muy concreto, están bien estructuradas las respuestas.
+Cuestionario 2. 
+	Pregunta1, Pregunta 5 {Buenas y concretas respuestas}
+	Pregunta3. Está bien pero podrías poner elementos que tengan 
+				más de dos clases y comprobar la utilidad de 
+				esos selectores.
+	Pregunta7. Me encantó <3 , qué bueno que usaste la etiqueta canvas,
+				resulta muy útil a la hora de programar juegos, sería
+				interesante que vieras en internet juegos donde utilizan
+				esta etiqueta. 
+				Los atributos que incorporaste están muy bien. 
+				Tienes el punto extra y una paletita. 
+Tarea 1 
+	Está bien, pero puedes obtener más información acerca de los 
+	pseudo- elementos aquí https://www.w3schools.com/css/css_pseudo_elements.asp
+	Necesito que lo cheques y si tienes duda, consultarme en la semana
+	Ya sé por qué pusieron todos con etiquetas meta, meta y pseudo 
+	tienen la misma connotación. C: 
+Práctica 1
+	Está perfecta, pero... ¿los mensajes de forot van el footer?
+	Si pones más etiquetas para remarcar algunas palabras de 
+	manera semántica estaría genial. 
+Práctica 2
+	¡Está bonita!
+	Sólo checa la parte del selector adyacente. Has tenido buen desempeño.
+Práctica 3
+	¡Bien!
