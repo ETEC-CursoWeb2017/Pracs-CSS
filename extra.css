@@ -1,0 +1,64 @@
+body
+{
+	background:#A3E4D7;
+	background-attachment:fixed;
+	margin:0;
+	font-family:monospace;
+}
+
+.formu
+{
+	position:absolute;
+	top:15%;
+	left:35%;
+	width:400px;
+	margin:auto;
+	background:rgba(0,0,0,0.4);
+	padding:10px 30px;
+	box-sizing:border-box;
+	margin-top:20px;
+	border-radius:8px;
+
+}
+h2
+{
+	
+	color:white;
+	text-align:center;
+	margin:0;
+	font-size:30px;
+}
+input,textarea
+{
+	width:100%;
+	border-radius:8px;
+	margin-bottom:20px;
+	padding:7px;
+	box-sizing:border-box;
+	font-size:18px
+	
+}
+textarea{
+	min-height:100px;
+	max-height:200px;
+	max-width:100%;	
+	
+}
+#boton
+{
+	background:#31384A;
+	color:white;
+	padding:10px;
+}
+#boton:hover{
+
+		cursor:pointer;
+}
+
+@media (max-width:450px)
+{
+	form{
+				width:100%;
+	}
+	
+}
