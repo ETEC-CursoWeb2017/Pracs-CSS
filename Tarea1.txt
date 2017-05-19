@@ -1,0 +1,9 @@
+Investigar sobre los meta - elementos y hacer un html ejemplificado.
+
+Segun la w3schools, los meta-elementos son usados para describir una pagina, decir 
+quien es el autor del documento, la ultima modificacion,dar palabras clabe,o para que 
+la pagina se ajuste a los dispositivos en los que es visitada.
+
+
+
+Referencia:https://www.w3schools.com/tags/tag_meta.asp

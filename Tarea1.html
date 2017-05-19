@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="keywords" content="HTML,CSS"/>
+		<meta name="description" content="Formulario "/>
+		<meta name="author" content="Milian Dien"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Images</title>
+	</head>
+	<body>
+		<form method='get' action='curp.php'>
+			Nombre:<input name='nom' type='text'><br/>	
+			Apellido Paterno:<input name='ap' type='text'><br/>
+			Apellido Materno:<input name='am' type'text'><br/>
+			Fecha de Nacimineto:<input name='fec' type='date'><br/>
+			Sexo:<select name='sex'><br/>
+					<option value='M'>Femenino</option>
+					<option value='H'>Masculino</option>
+				</select><br/>
+			Numero de Tarjeta Visa:<input name='tar' type='text' pattern='^[0-9]{16}$' placeholder='16 digitos'/><br/>
+			<input type='submit'>";
+	</body>
+</html>	
