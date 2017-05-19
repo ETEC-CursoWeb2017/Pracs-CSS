@@ -1,0 +1,40 @@
+Esta hoja de estilo solo contiene ejemplos de como funcionan los selectores de css
+
+//selector de atributo
+a[name]{ 
+    background-color: yellow;
+}
+a[name=nombre]{ 
+    background-color: yellow;
+}
+a[value=~nombre]{ 
+    background-color: yellow;
+}
+a[lang|=es]{ 
+    background-color: yellow;
+}
+
+//selectores de hijos
+p>a{
+background-color: yellow;
+}
+
+//selector adyacente
+p+a{
+background-color: yellow;
+}
+
+//Selector descendiente
+p a
+{
+background-color: yellow;
+}
+
+//Selector de clases
+.clase
+{
+background-color: yellow;
+}
+
+Gracias Alma.
+
