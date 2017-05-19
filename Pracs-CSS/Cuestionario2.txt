@@ -1,0 +1,22 @@
+1.. :hover hacer que al pasar el raton haga algo, :link es para enlaces que no se han visitado
+para que visited lo pueda modificar posteriormente
+2 El selector hijo solo tomara al hijo siempre y cuando sea el primer hijo del elemento padre es decir si de alguna manera
+se encuentra otro elemento entre estos dos, el selector hijo no funcionara en cambio el descendente si funcionara por que 
+indica que el elemento objetivo sera modificado SIEMPRE Y CUANDO este dentro del  elemento padre(o abuelo, o bisabuelo
+segun sea el caso)
+3.- p.destacado{
+	font-size:tamañoquequieras;
+	font-family:fuentequequieras;
+	background-color:colorquequieras;
+}
+4.-La herencia en css funciona del elemento mas general al mas especifico,siendo que las reglas especificas rompen con las
+generales, es decir si yo tengo ala etiqueta body, con cierto estilado del color del texto, ABSOLUTAMENTE todos los
+elementos heredaran esa caracteristica, aunque basta con poner otras en los demas elementos para romper con la herencia
+
+5.-Caracteristica imprescindible del css que hace que todos los elementos se muestren en cajas rectangulares que pueden
+ser modificadas. Listo!
+
+6.-id, selecionna al elemento al que le pertenesca cierta ID, clase es basicamente lo mismo que Id pero en plural, 
+descendencia afecta al elemento objetivo siempre y cuando este dentro del "padre" aunque hayan otros elementos hijos que
+lo hagan nieto, y el de hijo afecta siempre y cuando especificamente el elemento objetivo sea HIJO del padre objetivo
+aqui no hay nietos ni "sangrado" asi
