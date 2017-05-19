@@ -1,0 +1,27 @@
+
+div{
+	background-color: blue;
+
+}
+
+p>span
+{
+	background-color:red;
+}
+
+div mark{
+	background-color:pink;
+}
+
+p+p{
+	color:white;
+}
+
+.Clase{
+	background-color:pink;
+	color:green;
+}
+
+[title^=e]{
+	background-color:cyan;
+}
