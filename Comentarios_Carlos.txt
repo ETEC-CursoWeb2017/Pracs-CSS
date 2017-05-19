@@ -1,0 +1,54 @@
+¡Hola! Aquí anexo los comentarios sobre cada uno de tus trabajos.
+Actividad 1.
+	Wii, uno de los pocos que entregaron algo que no es la página
+	de la prepa. Está bastante bien, describiste 4 de los princi-
+	pios más importantes de CSS. Sin embargo, es importante recordar
+	que su simplicidad radica en que es un lenguaje de estilo simple
+	que es legible y escribible.  
+	Acerca de la flexibilidad, el conjunto de propiedades de CSS forman 
+	un modelo de formato en el que otros lenguajes pueden acceder 
+	a través de su lenguaje. Ejemplo: javascript con el cambio de color. 
+	Creo que entregaste muy bien la actividad, te tomaste el tiempo 
+	para estructurar bien las ideas y describiste acertivamente sus 
+	propiedades.
+Cuestionario 1.
+	Pregunta 1. Gracias por describirlos y no escribirlos
+	Pregunta 6. Hay más html 5 que podrías aplicar en los forms, como el
+				atributo pattern por ejemplo. 
+	En general noto tus trabajos estructurados, eso es muy bueno.
+Cuestionario 2.
+	Pregunta 2. Excelente respuesta C:
+	Pregunta 3. Muchísimas gracias por poner la imagen del maque-
+				maquetado. Sólo recuerda que ese selector se usa
+				de preferencia cuando tenemos un elementos con 
+				diversas clases y lo vamos a usar seguido, vaya,
+				no podríamos poner id porque no es conveniente.
+				Ejemplo. 
+					<div class="hola este es el div primero "></div>
+					<p class="hola este es el primero"></p>
+				p[class="primero"]{}
+	Pregunta 4 Pregunta 5 Explicaste muy bien la herencia y el modelo
+				de cajas C:
+	Pregunta 6. Perfecto, las descripiciones están bien, si hubieras
+				puesto cómo se declaran los selectores de cada tipo
+				estaría todavía mejor. 
+Práctica 1.
+	La práctica está bien, pero... ¿Los mensajes de foro irían en footer?
+	Hubiera sido muy muy bueno que pusieras el form con etiquetas html5 
+	Pd. visita las páginas que les puse, sí resultan ser útiles a la hora
+	de tener recursos para diseño.
+Práctica 2.
+	Está muy bien la práctica 2. Una paletita por eso C: 
+Práctica 3.
+	Una observación: qué bueno que pongas en la liga para cualquier 
+	archivo un nombre que esté totalmente relacionado. 
+Tarea 1
+	Está bien, sí me preguntaste si me refería a las etiquetas meta,
+	normalmente damos una connotación igual a meta y a pseudo. Te paso 
+	las ligas en las que lo puedes consultar y si tienes alguna duda sobre
+	cómo usarlos con mucho gusto la aclaro. 
+	https://librosweb.es/libro/css_avanzado/capitulo_3/pseudo_elementos.html
+	https://www.w3schools.com/css/css_pseudo_classes.asp
+	PD. No pases tus prácticas ni des permiso que las vean, recuerda que
+	es importante que los demás también investiguen. Tienes dos visitas 
+	a tu rama sin contar la mía. 
