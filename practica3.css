@@ -1,15 +1,15 @@
 a:link
 {
-	color: #CC0000;
+	color: chocolate;
 }
 a:hover
 {
-	background-color:#CC0000;
-	color:#FFF;
+	background-color:blue;
+	color:grey;
 }
 a:visited
 {
-	color:#CCC;
+	color:red;
 }
 
 
