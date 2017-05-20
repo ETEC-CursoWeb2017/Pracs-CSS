@@ -1,0 +1,57 @@
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+	Que en :hover cuando se desliza el ratón por ahí cambia algo en el estilado. Y en el :link cambia de color, según se establezca, una vez que se da click al link que se muestra.
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+	Que un descendiente llega a tal punto que no importa si tiene otras etiques que impidan la directa descendencia mientras que en el caso de un selector hijo tiene que ser totalmente directo.
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+<!DOCTYPE HTML>
+<html lang='es'>
+	<head>
+		<title></title>
+		<meta charset='UTF-8'/>
+		<style>
+			p.destacado
+			{
+				font-size:"40";
+				font-family:"Arial";
+				background-color:"red";
+			}
+		</style>
+	</head>
+	<body>
+		<p class"destacado fabuloso">Hola</p>
+	</body>
+</html>
+4.- Describe cómo funciona la herencia en CSS
+	Que los atributos se heredan hacia las generaciones hijas de un mismo padre. Siguiendo una jerarquía de general a los específico. Dándole mayor importancia a lo que se establece específicamente.
+5.-Explica brevemente el modelo de cajas de CSS
+	Que es un modelo basado en las distintas partes visibles de un elemento en html. Comenzando con la parte más intrínseca:el contenido. Mismo que puede ser tanto un texto, imagen o tabla.
+	Seguido de eso se encuentra el relleno o también  conocido como padding. Posteriormente le siguen el borde y el margen.
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo
+	Que se puede seleccionar una clase en el espacio destinado a establecer el estilado css de la siguiente forma:
+	p a->cuando queremos especificar que la etiqueta debe ser descendiente directo de la etiqueta 		p para que se le aplique dicho estilado.
+	p*a->que la etiqueta a debe ser descendiente de p pero no de forma tan directa pues pueden pasar más de una etiqueta intermedio y seguir teniendo el mismo estilado. 
+	p.clase-> siempre anteponiendo un punto a la misma y poniendo (opcionalmente) el nombre de la 		etiqueta del elemento que la debe contener.
+	#id->debe ser unico en todo el documento
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+	<!DOCTYPE HTML>
+	<html lang='es'>
+		<head>
+			<title></title>
+			<meta charset='UTF-8'/>
+		</head>
+		<body>
+			<fieldset form="formulario">
+			  <legend>Datos de usuario</legend>
+			  <p><input type="text"> Nombre</p> 
+			  <p><input type="text"> Apellido</p>
+			 </fieldset>
+			<details>
+				<summary> Lista grande </summary>
+				<p> Lista mas pequeña</p>
+			</details>
+			<embed src="reloj.swf" />
+		</body>
+	</html>
+
+
+8.-Sean felices C:
