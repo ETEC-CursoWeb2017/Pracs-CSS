@@ -1,0 +1,82 @@
+h1, .titulo{
+  font-family: fantasy;
+  font-size: 2em;
+}
+body {
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 20%;
+  background-color: gray;
+  background-image: url("http://0.tqn.com/d/webdesign/1/S/_/2/2/182147263.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+header{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 20px;
+}
+.logo{
+  padding-right: 0px;
+}
+nav {
+  background: orange;
+  padding-top: 5px;
+  padding-left: 0px;
+  padding-bottom: 10px;
+  font-size: 1.5em;
+}
+nav a:hover {
+  background: black;
+}
+#seccion {
+  background: white;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+}
+#seccion .articulo{
+  background-position: right;
+  background-color: orange;
+}
+#seccion .articulo .parrafo{
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 15%;
+  background-color: darkorange;
+}
+#seccion .articulo .parrafo .b {
+  font-style: oblique;
+}
+#seccion * p{
+  font-size: 1.5em;
+  background-color: white;
+}
+#seccion .parrafo2{
+  font-family: Italic, serif;
+}
+h3 + h4 + h5 {
+  text-decoration: overline;
+  font-stretch: extra-expanded;
+  font-size: .5em;
+}
+aside {
+  background-position: right;
+  background-color: darkgreen;
+  padding-left: 50%;
+}
+footer{
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: inherit;
+  background-position: center;
+}
+footer p{
+  font-size: 1em;
+}
