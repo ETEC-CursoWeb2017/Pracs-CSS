@@ -1,0 +1,84 @@
+¡Hola Dani! Aquí anexo los comentarios sobre cada uno de tus trabajos.
+Actividad 1.
+	Wii, estuviste viendo una página que no fuera de la prepa, si checas
+	en la página archive.org puedes encontrar videos y caricaturas de 1990
+	está muy interesante.
+	Me encantó cómo describiste la página, ya la visité.
+Cuestionario 1.
+	Pregunta 1.
+		Eres el primero en poner que es el tercer intento para mejorar
+		la interfaz gráfica con el usuario.
+	Pregunta 2. 
+		Muy buenos ejemplos, sólo recuerta que sí tenían carga semática,
+		pero actualmente tienen una carga semática mayor.
+	Pregunta 3. 
+		Es bueno que hayas puesto en orden los pasos. 
+	Pregunta 4. 
+		Se encuentran todos los principios de CSS, eso es genial. Hubiera
+		servido mucho en la parte de retroalimentación, explicar cada 
+		principio. 
+		Es bueno recordarlo y perdóname la vida, pero te anexo algunos 
+		apuntes C: (a todos se los estoy anexando)
+		MANTENIBILIDAD
+	uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+	documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+	aspecto coherente en todo el sitio.
+SIMPLICIDAD
+	es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+	piedades se mantienen 
+RENDIMIENTO DE LA RED
+	proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+	con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+	las hojas de estilo disminuyen el tamaño del contenido. 
+FLEXIBILIDAD
+	se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+	en el head en html, con una hoja de estilos vinculada.
+RIQUEZA
+	Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+	riqueza de la Web como un medio de expresión.
+ENLACES DE LENGUAJE ALTERNATIOS
+	el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+	lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+	cambio de color 
+ACCESIBILIDAD. 
+	se adecúa conforme al usuario. 
+	Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+	imágenes de texto inaccesibles de mapas de bits.
+	propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+	imágenes invisibles) para forzar la disposición.
+	La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+	presentación particulares pueden anular las hojas de estilo del autor.
+	El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+	más fácil y consistente sintonía estilo.
+	Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+	de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
+Cuestionario 2.
+	Pregunta 1.
+		Respuesta concreta y muy buena
+	Pregunta 2. 
+		Qué bueno que lo hayas explicado usando la herencia como medio.
+	Pregunta tres.
+		Lo que pusiste está bien, toma en cuenta que va a poner de color
+		azul todas los elementos en el que su clase sea  "destacado" pero recuerda que
+		hay ocasiones en que existen más de una clase en cada elemento, entonces sería
+		difícil que funcionara así. 
+		Tenemos que 
+		<p class="es un parrafo tienen destacado"></p>
+		p[class ~="destacado"]{}
+		Tienes muy claro conceptos de herencia que aplicaste.
+	Pregunta 6. 
+		Está muy bien, hubiera sido genial que agregaras ejemplos.
+Práctica 1.
+	Fue bueno que pusieras entre <mark> lo más importante, sin embargo, se recomienda usar
+	esa etiqueta para remarcar algunas palabras claves.
+	Podrías poner un <detail> en una <section>
+	Qué bueno que no pusiste los mensajes de foro en el footer (paletita por eso), pero de
+	preferencia, siempre deja el footer hasta el final del body.
+	Pd. visita los links que puse en la práctica, tal vez te pueden servir cuando necesiten
+	hacer una hoja de estilos C:
+Práctica 2. 
+	Perfecta C:
+Práctica 3.
+	No especifiqué en dónde podían aplicar el color, estuvo bien que lo hicieras
+	en el background. Está muy bien la tarea.
+Dani, te falta la tarea 1 sobre los pseudo o meta -elementos 
