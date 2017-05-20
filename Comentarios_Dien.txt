@@ -1,0 +1,92 @@
+¡Hola, Dien! Aquí anexo los comentarios sobre cada uno de tus trabajos.
+Actividad 1.
+	Interesante elección, qué bueno que elegiste otra página en lugar de
+	la página de la prepa.
+Cuestionario 1.
+	Pregunta 1.
+		Están bien pero les pedí que describieran y no que las escri-
+		bieran.
+	Pregunta 2.
+		Muuuy concreta, pero está bien
+	Pregunta 3.
+		Buena respuesta C:
+	Pregunta 5. 
+		¡Perfecto! si tuviera una pequeña explicación de cada principio
+		sería maravilloso. 
+		Al final te pondré cada principio explicado.
+	Pregunta 6. Me alegra mucho que pusieras los atributos de autocomple-
+		te
+Cuestionario 2.
+	Pregunta 2. 
+		En el ejemplo que pusiste, recuerda que las clases en selec-
+		tores se ponen .class, entonces, si quieres modificar los ele-
+		mentos span que se encuentran en clase aviso que se encuentran
+		en un div sería 
+		div .aviso span{}
+		Muy buena la respuesta. c: 
+	Pregunta 3. 
+		Está perfecto, sólo recuerda usar este tipo de selectores 
+		cuando haya elementos que tengan varias clases tal cual lo
+		hiciste. Paletita por eso
+	Pregunta 4. Pregunta 5.
+		En verdad es una buena respuesta.
+	Pregunta 6. 
+		Las respuestas son claras y concretas, estaría genial si pu-
+		sieras ejemplos de cada clase.
+	Pregunta 7.
+		Pusiste las etiquetas de html 5 pero no dentro de un html :C
+Práctica 1.
+	Está muy bien la colocación de las etiquetas, sólo considera poner
+	carga semántica a la imagen. En verdad me alegra mucho que pusieras
+	los mensajes del foro afuera del footer, pero entonces... ¿dentro de
+	qué etiqueta html5 los colocarías? 
+	Fuiste de las pocas personas que lo puso fuera del footer, excelente.
+	Pd. visita los links que puse, les podría llegar a servir C:
+Práctica 2
+	¡Perfecto!
+	Me gustó mucho, pusiste medidas relativas y absolutas. 
+Práctica 3.
+	Me encantó tu práctica, el que hayas puesto tema para poner un ejemplo
+	claro de cuándo usar las pseudo-clases está perfecto.
+Tarea 1
+	El hecho de que hayas puesto las referencias es muy bueno, casi nadie
+	las incluye en un trabajo. Te pasaré algunas ligas en las que puedes
+	consultar más información acerca de los meta- elementos, tienen la misma
+	connotación que los pseudo- elementos.
+	https://librosweb.es/libro/css_avanzado/capitulo_3/pseudo_elementos.html
+	https://www.w3schools.com/css/css_pseudo_classes.asp
+
+APUNTES.
+MANTENIBILIDAD
+	uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+	documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+	aspecto coherente en todo el sitio.
+SIMPLICIDAD
+	es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+	piedades se mantienen 
+RENDIMIENTO DE LA RED
+	proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+	con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+	las hojas de estilo disminuyen el tamaño del contenido. 
+FLEXIBILIDAD
+	se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+	en el head en html, con una hoja de estilos vinculada.
+RIQUEZA
+	Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+	riqueza de la Web como un medio de expresión.
+ENLACES DE LENGUAJE ALTERNATIOS
+	el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+	lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+	cambio de color 
+ACCESIBILIDAD. 
+	se adecúa conforme al usuario. 
+	Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+	imágenes de texto inaccesibles de mapas de bits.
+	propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+	imágenes invisibles) para forzar la disposición.
+	La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+	presentación particulares pueden anular las hojas de estilo del autor.
+	El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+	más fácil y consistente sintonía estilo.
+	Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+	de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
