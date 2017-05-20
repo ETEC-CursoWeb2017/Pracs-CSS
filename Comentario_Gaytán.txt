@@ -1,0 +1,37 @@
+¡Hola, Arón! Aquí te dejo los comentarios de tu trabajo. 
+
+Cuestionario 1
+	Pregunta 1
+		Gracias por describir los elementos, es una descripción
+		concreta y buena
+	Pregunta 3. Hiciste una muy buena paráfrasis del funcionamien-
+		to de CSS, pero si ponemos cada paso descrito de manera 
+		muy breve, entonces sería así:
+		Anota todos los elementos de la estructura del documento
+		mediante la asignación de un valor único para cada propiedad. 
+		Las propiedades se asignan valor de acuerdo co los mecanismos
+		de cascada y herecia.A partir de la estructura del documento anotado, genera una estructura de formato
+		La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 6. 
+		Qué bueno que pusiste atributos como autocomplete y pattern.
+
+Práctica 1
+	Utilizaste muy bien la etiqueta de <mark>
+	Me alegra que hayas puesto carga semántica en la imagen
+	Tengo una duda, ¿por qué pusiste dos elementos <footer>? 
+	Sí pueden haber más de un elemento así pero en dado caso,
+	se estaría usando a footer como pie de artículo, cosa que 
+	no es muy buena práctica para maquetar. 
+	¿Los mensajes de foro estarían en el footer? Yo lo reconsi-
+	deraría un poco. 
+	En general está bien la práctica.
+Actividad 1
+Cuestionario 2
+Práctica 2
+Práctica 3
+Tarea 1
+Punto extra
+Me preocupa mucho que te falten cinco cosas, sabes que puedes subirlas
+y eso me gustaría mucho, recuerda que si no tienes css, materialize o svg
+no tienes constancia de diseño :C
+Buen fin de semana
