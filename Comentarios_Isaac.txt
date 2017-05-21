@@ -1,0 +1,65 @@
+¡Hola, Isaac! Aquí te dejo los comentarios de tu trabajo. 
+Actividad 1
+Cuestionario 1
+	Pregunta 1.
+		Están bien descritas las etiquetas, sólo que pedí
+		tres mínimo, gracias por poner breve descripción
+		y no sólo escribirlas C:, eso es bueno.
+	Pregunta 3.
+		Cuando hablo del modelo conceptual me refiero al
+		proceso lógico entre html y css para procesar las
+		hojas de estilo. 
+		Te dejo algunos apuntes C:
+		* Anota todos los elementos de la estructura del documento mediante la asignación de un valor único para cada propiedad. 
+		*Las propiedades se asignan valor de acuerdo co los mecanismos de cascada y herecia.
+		*A partir de la estructura del documento anotado, genera una estructura de formato
+        *La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 4. 
+		Está muy bien contestada C:
+	Pregunta 5. 
+		Sí pusiste alguno de los principios que son importantes,
+		hubiera estado genial que los describieras un poco. Perdóname la
+		vida, es importante que tengas esto en algún lugar C:
+		MANTENIBILIDAD
+	uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+	documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+	aspecto coherente en todo el sitio.
+		SIMPLICIDAD
+			es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+			piedades se mantienen 
+		RENDIMIENTO DE LA RED
+			proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+			con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+			las hojas de estilo disminuyen el tamaño del contenido. 
+		FLEXIBILIDAD
+			se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+			en el head en html, con una hoja de estilos vinculada.
+		RIQUEZA
+			Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+			riqueza de la Web como un medio de expresión.
+		ENLACES DE LENGUAJE ALTERNATIOS
+			el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+			lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+			cambio de color 
+		ACCESIBILIDAD. 
+			se adecúa conforme al usuario. 
+			Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+			imágenes de texto inaccesibles de mapas de bits.
+			propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+			imágenes invisibles) para forzar la disposición.
+			La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+			presentación particulares pueden anular las hojas de estilo del autor.
+			El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+			más fácil y consistente sintonía estilo.
+			Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+			de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
+	Pregunta 6.
+		Está muy bien
+Cuestionario 2
+Practica 1
+Práctica 2
+Práctica 3
+Tarea 1
+Punto extra
+En verdad me preocupa que sólo tengas esto. Puedes subirlo antes del lunes,
+recuerda que si no tienes css no tienes constancia de diseño :C
