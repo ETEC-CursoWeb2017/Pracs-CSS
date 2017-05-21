@@ -1,0 +1,35 @@
+Ordaz Arias manuel Azaid
+1.-Describe por lo menos tres etiquetas de web semántica
+<mark></mark>
+<small></small>
+<cite></cite>
+2.- Definición de CSS
+	Cascading Style Sheets
+3.- Explica el modelo conceptual de funcionamiento de CSS
+	aanaliza el documentofuente y crea un arbol de documentos,recuperacion dehojas de estilo, asigna de valores a los atributos, mecanismo de cascada y herencia genera la estructura y la transfiere, y crea el soporte de destino
+4.- ¿Qué es una regla y cuáles son sus componentes?
+	una regla esta conformada por un elemento que coontiene un atributo y este contiene un valor
+5.- Menciona la importancia de CSS y sus principios
+simplicidad
+ mantebilidad 
+rendimiento de la red
+flexibilidad
+enlace de lenguaje alternativos
+accesibilidad
+6.- Quiero hacer un form de tres campos: nombre, apellido paterno, contraseña y el botón de enviar. Escribe el maquetado con etiquetas de html 5.
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title></title>
+		</head>
+	<body>
+		<form>
+			<input type="text" name="nombre" placeholder="nombre">
+			<input type="text" name="apellidopaterno" placeholder="apellido paterno">
+			<input type="password" name="contraseña" placeholder="contrasenia">
+			<button type="button",autofocus>Enviame chequeto</button>
+		</form>
+	</body>
+</html>
+</html>
+				

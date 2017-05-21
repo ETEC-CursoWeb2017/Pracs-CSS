@@ -1,0 +1,27 @@
+h2[id]
+{
+	background-color: orange;
+	color: yellow;
+}
+header > h1
+{
+	background-color:black;
+	color:white;
+}
+h2+p
+{
+	background-color: brown;
+	color: white;
+
+}
+tr td
+{ 
+	background-color: yellow;
+	color: red; 
+}
+
+.destacado 
+{ 
+	color: white; 
+	background-color:pink;
+}
