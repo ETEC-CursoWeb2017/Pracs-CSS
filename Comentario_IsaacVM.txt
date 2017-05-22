@@ -1,0 +1,119 @@
+Actividad 1
+Cuestionario 1
+	Pregunta 1.
+		Muchísimas gracias por describir correctamente cada
+		etiqueta en lugar de sólo mencionarla C:
+	Pregunta 2.
+		Respuesta buena y concreta.
+	Pregunta 3. 
+		¡Muy bien!
+		Aquí te dejo el modelo conceptual en lista C:
+		* Anota todos los elementos de la estructura del documento mediante la asignación de un valor único para cada propiedad. 
+		*Las propiedades se asignan valor de acuerdo co los mecanismos de cascada y herecia.
+		*A partir de la estructura del documento anotado, genera una estructura de formato
+        *La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 4. 
+		La respuesta está excelente, si hubieras mencionado que el selector
+		se compone por declaraciones que tienen propiedad y valor hubiera sido
+		genial, está muy bien.
+	Pregunta 5
+		Me parece muy buena la aportación de estándar para diseño.
+		Recuerda que CSS está regido por principios como mantenibilidad,
+		y me parece importante que tengas apuntes de eso,
+		los anexo aquí C: 
+	    MANTENIBILIDAD
+		uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+		documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+		aspecto coherente en todo el sitio.
+		SIMPLICIDAD
+			es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+			piedades se mantienen 
+		RENDIMIENTO DE LA RED
+			proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+			con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+			las hojas de estilo disminuyen el tamaño del contenido. 
+		FLEXIBILIDAD
+			se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+			en el head en html, con una hoja de estilos vinculada.
+		RIQUEZA
+			Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+			riqueza de la Web como un medio de expresión.
+		ENLACES DE LENGUAJE ALTERNATIOS
+			el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+			lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+			cambio de color 
+		ACCESIBILIDAD. 
+			se adecúa conforme al usuario. 
+			Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+			imágenes de texto inaccesibles de mapas de bits.
+			propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+			imágenes invisibles) para forzar la disposición.
+			La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+			presentación particulares pueden anular las hojas de estilo del autor.
+			El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+			más fácil y consistente sintonía estilo.
+			Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+			de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
+	Pregunta 6.
+		Está muy bien C: , qué bueno que utilizaste los atributos que vimos
+Cuestionario 2
+	Pregunta 1.
+		Buena descripción C:
+	Pregunta 2.
+		¡Muy bien! hubiera sido en verdad genial que anexaras
+		un ejemplo de los selectores y mencionar a cuál se le
+		aplicaría estilo.
+	Pregunta 3.
+		Está bien, sólo que recuerda que hay selectores de atributos,
+		entonces, si quiero estilar algo que tenga como atributo class
+		y quiero encontrar por lo menos una coincidencia, se usa 
+		p[class~="destacado"]{}
+		Recuerda que este selector se usa cuando tenemos un elemento 
+		que cuenta con diversas clases, por ejemplo:
+			<p class="hola class2 class3 class4"></p>
+	Pregunta 4.
+		Es una respuesta bien estructurada. 
+	Pregunta 6. 
+		Está bien la respuesta C:
+Práctica 1
+	Yei, alguien que puso etiqueta de lenguaje, esa se pone de manera correcta
+	así <meta lang="es"/>, estuvo muy bien. 
+	La etiqueta <hgroup> se utiliza preferentemente cuando tienes un conjunto
+	de etiquetas <h>, es decir cuando tienes títulos y subtítulos en un <article>
+	por ejemplo, se usa para que no te cree secciones que no van. Eres el primero
+	en acordarse de <hgroup> wii
+	Me alegra que pusieras a <article> dentro de <section> y que le 
+	pusieras la carga semántica a la imagen 
+	Qué bueno que no pusiste dentro del footer los mensajes de foro
+	pero mmmm, me pareció haber visto antes el mismo error: tienes 
+	el footer antes del form, el footer es recomendable ponerlo hasta el final
+	Tienes punto sobre práctica al poner el form, eres nuevamente el primero en ponerlo 
+	Por último, consulta los links que les puse en la práctica, les podría 
+	llegar a servir C:
+Práctica 2
+	Está muy bien C:
+Práctica 3
+	Al igual que la práctica 2, está muy bien C:
+	pero me pregunto por qué todos empezaron por a: link (sólo es dato curioso)
+Tarea 1
+	Me gustó mucho, hiciste una tarea completa y me alegra mucho que hayas utilizado
+	etiquetas para refrescar C: 
+	Es error mío, cuando hablo de meta-elementos también me refiero
+	a los pseudo-elementos, vaya, tienen la misma connotación y es necesario
+	que sepas de ellos, por eso te dejo los links en los que puedes consultar,
+	por favor, cualquier duda que tengas dime y con mucho gusto responderé.
+	Felicidades por la tarea.
+	https://www.w3schools.com/css/css_pseudo_elements.asp
+	https://librosweb.es/libro/css_avanzado/capitulo_3/pseudo_elementos.html
+Punto extra
+	¡Perfecto! eres el primero al que reviso un punto extra C:
+	Me gustó mucho, el uso de selectores es correcto y qué bueno 
+	que utilices una gama de colores, vaya, son colores que combinan
+	y que son amables para el usuario.
+	El día de la entrega de constancias te llevaré el regalo, en serio
+	muy bien por eso.
+No encontré tu actividad 1, por favor me dices si la tienes para revisarla y 
+agregarla a las calificaciones.
+Buen inicio de semana, perdón por tardar tanto, pero reviso cada trabajo.
+Tengo una duda, hay otra rama que se llama Isaac, son distintos, ¿no?
+Los cuestionarios son diferentes
