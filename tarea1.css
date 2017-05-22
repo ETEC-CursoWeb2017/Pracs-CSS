@@ -1,0 +1,30 @@
+body{
+	
+	background-color:#DAF7A6;
+	text-align:center;
+	
+}
+#pe{
+	font-family:Arial;
+	font-size:15px;
+	text-align:justify;
+}
+	
+#titulo{
+	
+	color:red;
+	font-size:30px;
+}
+#h2{
+	
+	text-align:left;
+	color:chocolate;
+	font-size:20px;
+}
+#fo{
+	
+	color:blue;
+	font-style:oblique;
+	font-size:15px;
+}
+	
