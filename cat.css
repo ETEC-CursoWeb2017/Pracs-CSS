@@ -1,0 +1,18 @@
+div span{
+  color:blue;
+}
+div > span{
+  color:green;
+}
+div p+div{
+  color:yellow;
+}
+a[href]{
+  color:purple;
+}
+.red{
+  color:red;
+}
+#cat{
+  text-align:center;
+}

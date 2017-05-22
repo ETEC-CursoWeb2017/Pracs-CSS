@@ -1,0 +1,12 @@
+p::first-letter{
+  color:#FF00FF;
+}
+p::selection {
+  background-color: #0099FF;
+}
+p::after{
+  content: "-Esto es un pseudo elemento after-";
+}
+p::before{
+  content: "Esto es un pseudo elemento before-";
+}

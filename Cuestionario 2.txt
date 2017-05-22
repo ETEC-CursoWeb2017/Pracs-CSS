@@ -1,0 +1,22 @@
+1.- Describe qué es lo que realizan las pseudo-clases :hover y :link
+  R= Hover: Le da estilo a un link cuando pasas por encima el ratón. Link: Le da estilo a los links que aun no has visitado.
+2. Menciona la diferencia entre un selector descendente y entre un selector hijo
+  R= Los selectores descendentes afectan a todas las etiquetas que se encuentren dentro de la etiqueta padre, y el selector hijo afecta a un determinado hijo de la etiqueta padre, ademas de no afectar a las sub-etiquetas.
+3.-¿Cuál sería el maquetado (html) y el estilado si yo quiero modificar el tamaño del texto, la fuente, y el background del elemento a todos los párrafos que tengan un atributo class en el que al menos uno de sus valores sea "destacado"?
+4.- Describe cómo funciona la herencia en CSS
+  R= Todos los elementos de un documento HTML heredan todas las propiedades heredables de su padre. Las propiedades serán heredadas y modificadas de lo especifico a lo general.
+5.-Explica brevemente el modelo de cajas de CSS
+  R= Las cajas estan formadas por el contenido de la caja (content), el espacio que hay entre el contenido y el borde del elemento llamado (padding), el borde del elemento (border), y el margen del elemento respecto a los demas elementos (margin).
+6.-Describe de manera resumida en qué consisten (cómo funcionan) los selectores de clase, de id, de descendencia, de hijo.
+  R= Selecciona todos los elementos que su atributo clase coincida con la clase específica, el id selecciona el elemento que coincida con id (solo uno), los descendentes seleccionan todas las etiquetas especificadas dentro de la etiqueta padre, y el de hijo solo afecta a un determinado hijo seleccionado de la etiqueta padre.
+7.-Investiga en la documentación otras etiquetas de html 5 y ponlas en una página web. (un punto extra quien lo haga)
+  R=<center>Esta etiqueta es nueva. <strike>Centra el contenido dentro de ella</strike></center> <!-Strike, pone una linea que tacha el texto dentro de ella-->
+    <form>
+      <fieldset>
+        <legend>Datos personales:</legend><!-Etiqueta legend-->
+          Nombre: <input type="text" size="30"><br>
+          Email: <input type="text" size="30"><br>
+          Cumpleaños: <input type="text" size="10">
+      </fieldset>
+    </form>
+8.-Sean felices C:
