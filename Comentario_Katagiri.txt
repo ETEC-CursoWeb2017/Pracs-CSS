@@ -1,0 +1,66 @@
+¡Hey Chino! ¿Qué pasó?
+Sólo tengo en tu rama los dos cuestionarios y la práctica 1
+Te pondré los comentarios de cada cosa, sé que están super 
+presionados con el proyecto final pero también es necesario
+que hagas todo o la mayoría para tener constancia de diseño.
+Revisaré tu rama mañana esperando haya más cosas.
+Actividad 1
+Cuestionario 1
+	Pregunta 1.
+		Muchas gracias por escribir una pequeña explicación
+		sobre las etiquetas
+	Pregunta 2.
+		La definición esta bastante bien, recuerda que también
+		en las definiciones abarca la pregunta ¿para qué?, 
+		entonces para qué sirve, si bien mencionas que es para
+		estilado, podrías mencionar ventajas C:
+	Pregunta 3. 
+		¡Yei! pusiste todos los pasos del modelo conceptual 
+		de su funcionamiento, pero siempre es bueno tener apuntes
+		al respecto. Te los anexo.
+		* Anota todos los elementos de la estructura del documento mediante la asignación de un valor único para cada propiedad. 
+		*Las propiedades se asignan valor de acuerdo co los mecanismos de cascada y herecia.
+		*A partir de la estructura del documento anotado, genera una estructura de formato
+        *La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 4. 
+		Tienes una noción muy buena de lo que son las reglas. Una
+		regla se compone por un selector y una declaración. La
+		declaración a su vez de un parámetro llamado propiedad y 
+		un valor C: 
+	Pregunta 5.
+		WIi, una vez más pusiste todos los principios que rigen 
+		actualmente a CSS y está padre C:
+		Te dejo apuntes un poquito más explícitos, a todos se los
+		he puesto, es porque necesito que los lean y cualquier duda
+		me pueden avisar.
+	Pregunta 6. 
+		Está bastante bien, recuerda usar también atributos como
+		autocomplete, patter, autofocus C:
+Cuestionario 2
+	Pregunta 1. 
+		Muy bien contestado, es una respuesta concreta y buena
+	Pregunta 2. 
+		Está bien la respuesta, si hubieras puesto algún ejemplo
+		para que la diferencia entre hijo y descendiente se viera
+		mucho más claro sería genial. 
+	Pregunta 4.
+		Está muy muy bien explicada la herencia C:
+	Pregunta 6. 
+		Explicaste bien los selectores de hijo y de id, pero faltaron
+		:c
+Práctica 1
+	Qué bueno que pusiste las etiquetas correspondientes a time y sus
+	atributos. Pusiste <mark> y eso es algo que en verdad me alegra,
+	pero esa etiqueta se recomienda usarla en frases cortas o palabras
+	ya que su carga semántica tan fuerte lo sugiere.
+	Me pareció muy bien el hecho de que pusieras la carga semántica
+	correspondiente a la imagen. y te felicito por no poner los mensajes
+	de foro dentro de la etiqueta <footer>, eso es realmente bueno. 
+	Sólo sugeriría poner el footer siempre hasta el final del maquetado, 
+	por buenas prácticas para maquetar correctamente.
+	Pd. visita las páginas que les puse en <section>, te podría llegar
+	a a servir y de mucho.
+Práctica 2
+Práctica 3
+Tarea 1
+Punto extra
