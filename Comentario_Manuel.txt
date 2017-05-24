@@ -1,0 +1,105 @@
+¡Hola, Manuel! Aquí te dejo los comentarios de tu trabajo C: 
+Cualquier duda por favor dime y con gusto la resolveré.
+Cuestionario 1
+	Pregunta 1.
+		Las etiquetas que pusiste están bien, corresponden a html5,
+		sin embargo no las describiste :c 
+	Pregunta 2.
+		Definición muuuy concreta pero correcta 
+	Pregunta 3.
+		Wii, pusiste todos los pasos lógicos o conceptuales del
+		procesamiento de CSS. Es siempre bueno contar con apuntes
+		más explícitos, por eso te los anexo C:
+		* Anota todos los elementos de la estructura del documento mediante la asignación de un valor único para cada propiedad. 
+		*Las propiedades se asignan valor de acuerdo co los mecanismos de cascada y herecia.
+		*A partir de la estructura del documento anotado, genera una estructura de formato
+        *La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 4.
+		Excelente respuesta.
+	Pregunta 5.
+		Me alegra que pusieras todos los principios que rigen a CSS
+		actualmente. 
+		Si hubieras puesto una pequeña descripción de cada uno en verdad
+		hubiera sido grandioso. Te dejo otros apuntes al respecto.
+		MANTENIBILIDAD
+			uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+			documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+			aspecto coherente en todo el sitio.
+		SIMPLICIDAD
+			es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+			piedades se mantienen 
+		RENDIMIENTO DE LA RED
+			proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+			con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+			las hojas de estilo disminuyen el tamaño del contenido. 
+		FLEXIBILIDAD
+			se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+			en el head en html, con una hoja de estilos vinculada.
+		RIQUEZA
+			Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+			riqueza de la Web como un medio de expresión.
+		ENLACES DE LENGUAJE ALTERNATIVOS
+			el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+			lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+			cambio de color 
+		ACCESIBILIDAD. 
+			se adecúa conforme al usuario. 
+			Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+			imágenes de texto inaccesibles de mapas de bits.
+			propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+			imágenes invisibles) para forzar la disposición.
+			La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+			presentación particulares pueden anular las hojas de estilo del autor.
+			El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+			más fácil y consistente sintonía estilo.
+			Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+			de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
+	Pregunta 6.
+		Me parece una buena respuesta, te sugiero usar pattern desde html. Una observación
+		pequeña, hay otros atributos que se pueden usar en los formularios.
+Cuestionario 2
+	Pregunta 1.
+		Muy bien contestado. 
+	Pregunta 2.
+		Está muy bien la explicación C: tienes paletita por eso. (sólo recuérdame que te 
+		debo la paletita)
+	Pregunta 3.
+		Está muy bien, pero recuerda algunas cosas importantes sobre los selectores de 
+		atributos, cuando decimos por lo menos se usa p[class~="destacado"]
+		Este tipo de selectores es recomendable usarlo cuando tenemos elementos
+		con diferentes clases y queremos buscar aquellos en los que mínimo una 
+		clase sea "destacado".
+	Pregunta 4.
+		¡Exacto!
+		Así funciona la herencia, pero creo que hay mucho más qué comentar, por 
+		ejemplo cómo es que lo específico siempre reemplaza a lo general y cómo 
+		es que los padres heredan sus atributos.
+	Pregunta 5.
+		Ok, jaja eso fue demasiado breve, está bien, sólo es importante 
+		que recuerdes cada uno de los componentes del modelo de cajas.
+	Pregunta 6.
+		¡Bien! hubiera sido aún mejor que pusieras un ejemplo de cada selector.
+		está muy bien C:
+Práctica 1
+	Está muy bien, pero tengo unas cuantas observaciones al respecto C:
+	De preferencia, el elemento <article> va dentro de un elemento <section>
+	y no al revés, sólo es una buena práctica de maquetado. 
+	Recuerda la etiqueta <time> que es la que actualmente se usa en lugar 
+	de un párrafo dentro del header. 
+	Te felicito por poner los mensajes de foro dentro de un <article>, eso 
+	es lo más recomendable, muy muy bien C:
+	Qué bueno que le pusiste carga semántica a la imagen.
+Práctica 2
+	Gracias por entregar las prácticas, aunque se haya pasado de la fecha.
+	Está muy bien tu práctica :)
+Práctica 3
+	Vaya, sólo pusiste un enlace de ejemplo, jajaja aún así está bien el 
+	estilado C:
+Tarea 1
+	Es interesante el contenido de la página. La tarea está bien, pero cuando
+	puse meta-elementos, bueno, no me refería a los atributos de la etiqueta meta,
+	más bien a pseudo-elementos, regularmente pseudo y meta tienen la misma 
+	connotación en diseño. Es necesario que cheques esto y que lo incluyas
+	en el proyecto final, recuerden que se evalúa todo lo visto en el curso.
+	Cualquier duda que tengas por favor comunícate y con gusto la responderé. 
+OD. no tienes la actividad 1, ¿verdad?
