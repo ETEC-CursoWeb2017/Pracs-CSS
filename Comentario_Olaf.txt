@@ -1,0 +1,134 @@
+¡Hola, Olaf! Aquí te dejo los comentarios de tu trabajo C: 
+Actividad 1
+	Está excelente la actividad. C:
+Cuestionario 1
+	Pregunta 1.
+		¡Muy bien! La respuesta es bastante buena, recuerda 
+		que la web semántica hace uso de etiquetas que muestran
+		el tipo de contenido que tiene.
+	Pregunta 2.
+		La respuesta es muy acertada, qué bueno que pusiste el
+		ejemplo del elemento <mark>, recuerda que también están 
+		las etiquetas <mark>, <small> y <cite> que son los 
+		ejemplos más representativos porque tienen mayor carga
+		semántica.
+	Pregunta 3.
+		¡Perfecto! Pusiste todos los pasos lógicos por los que
+		pasan las hojas de estilo. Siempre es bueno tener apuntes
+		y saber cómo funciona, entonces te dejo apuntes al respecto.
+		* Anota todos los elementos de la estructura del documento mediante la asignación de un valor único para cada propiedad. 
+		*Las propiedades se asignan valor de acuerdo co los mecanismos de cascada y herecia.
+		*A partir de la estructura del documento anotado, genera una estructura de formato
+        *La transferencia de la estructura del formato para el soporte de destino
+	Pregunta 4.
+		Así es, pusiste cada uno de los principios que tiene CSS. Aquí
+		te dejo apuntes que tienen una explicación sencilla C:
+		MANTENIBILIDAD
+			uno de sus principios es la mantenibilidad. Al señalar que las hojas de estilo de
+			documentos, los webmasters pueden simplificar el mantenimiento del sitio y retener 
+			aspecto coherente en todo el sitio.
+		SIMPLICIDAD
+			es un lenguaje de estilo simple que es legible y escribible. Sus pro-
+			piedades se mantienen 
+		RENDIMIENTO DE LA RED
+			proporciona para codificaciones compactas de cómo presentar el contenido. Comparado
+			con las imágenes o archivos de audio que algunos utilizan para la presentación, 
+			las hojas de estilo disminuyen el tamaño del contenido. 
+		FLEXIBILIDAD
+			se puede aplicar al contenido de varias maneras, como atributos en los elementos, 
+			en el head en html, con una hoja de estilos vinculada.
+		RIQUEZA
+			Proporcionar autores con un amplio conjunto de efectos de renderizado aumenta la
+			riqueza de la Web como un medio de expresión.
+		ENLACES DE LENGUAJE ALTERNATIOS
+			el conjunto de propiedades de CSS forman un modelo de formato en el que otros 
+			lenguajes pueden acceder a través de su lenguaje. Ejemplo: javascript con el 
+			cambio de color 
+		ACCESIBILIDAD. 
+			se adecúa conforme al usuario. 
+			Propiedades para controlar la apariencia de la fuente permiten a los autores eliminar las 
+			imágenes de texto inaccesibles de mapas de bits.
+			propiedades de posición permiten a los autores eliminar trucos de marcado (por ejemplo, 
+			imágenes invisibles) para forzar la disposición.
+			La semántica de ! Importantes reglas significan que los usuarios con requerimientos de 
+			presentación particulares pueden anular las hojas de estilo del autor.
+			El valor 'inherit' para todas las propiedades mejora la generalidad en cascada y permite una
+			más fácil y consistente sintonía estilo.
+			Mejorado el soporte de medios, incluyendo grupos de medios y el braille, en relieve y tipos
+			de medios TTY, permitirán a los usuarios y autores para adaptar las páginas de esos dispositivos.
+	Pregunta 6. 
+		Seguramente estarás preguntando por qué no puse la pregunta 5, bueno, las dos están bien C:, aunque
+		hubiera sido genial que fueras un poco más explícito. C: 
+Cuestionario 2
+	Pregunta 1.
+		¡La respuesta está genial!
+	Pregunta 2.
+		Mmm, yo tendría un poco más de cuidado al referirme a los elementos adyacentes,
+		porque recuerda que hay un tipo de selector llamado así C:
+		Hubiera sido genial que pusieras algunos ejemplos de los dos selectores.
+	Pregunta 3.
+		Está bien lo que pusiste, sólo recuerda que si pones elemento 1 elemento 2{}, entonces
+		estamos hablando de todos los elementos que tengan clase "destacado" y que estén en un
+		elemento <p>. En este tipo de casos se recomienda usar selectores de atributos, cuando
+		menciono que al menos uno de sus valores sea "destacado", sería algo así:
+		p[class~="destacado"]{}
+		Normalmente se usan cuando tenemos elementos que cuentan con diversas clases
+		ejemplo : <p class="esto tiene más clases">, </p>. Estamos de acuerdo que la primera
+		clase es "esto", la segunda "tiene" y así consecutivamente, si ponemos el selector
+		descendiente (el que pusiste), sería más complicado que funcionara.
+	Pregunta 4.
+		Explicaste muy bien la herencia C: 
+		Tienes paletita por eso (es en serio, en la entrega de constancias por favor recuérdame y sha)
+	Pregunta 5.
+		Está bien la explicación, hubiera sido estupendo que pusieras los elementos
+		del modelo de cajas como Content, padding, border, margin que son los más 
+		relevantes.
+	Pregunta 6.
+		Tu respuesta está perfecta.
+Práctica 1
+	Está bien, sólo que tengo unas cuantas observaciones :)
+	Recuerda que antes se ponía la fecha dentro de un párrafo <p>, pero en la clase
+	les mencioné de las etiquetas <time> que es la que se recomienda usar. 
+	Me parece bien que hayas puesto un elemento <article> dentro de un <section>, pero 
+	recuerda que también es bueno poner a <section> con el contenido más importante.
+	Me alegra que hayas puesto los mensajes de foro fuera del footer, eso estuvo muy bien,
+	normalmente los mensajes de foro están dentro de un <article>, donde normalmente
+	están los mensajes del foro, entradas a un blog, noticias o comentarios.
+	En general estuvo muy bien la práctica C:
+Práctica 2
+	¡Felicidades!
+	Está muy bien la práctica, se nota que te tomaste el tiempo necesario para hacerlo
+	y créeme que de verdad se agradece mucho C: 
+	Sólo una pequeña cosa, por favor hay que checar la indentación que tiene.
+	<!DOCTYPE html>
+		<head>
+		</head>
+		<body>
+			<header>
+			</header>
+			<nav>
+				<div class="menu">
+				</div>
+			</nav>
+			<section>
+			</section>
+			<aside>
+			</aside>
+			<footer>
+			</footer>
+		</body>
+	</html>
+	normalmente esa es la estructura html que se utiliza y el indentado, en serio la 
+	práctica estuvo bien. ¿Te pareció cool escribir cosas raras en tu práctica? jajaja.
+Práctica 3
+	wiii, me da mucho gusto el que tengas una práctica distinta en el sentido que 
+	estructuraste tu maquetado muy bien. 
+	La práctica está bien y a propósito de los links que pusiste (en realidad los copiaste
+	de la prac 1 jajaj), ¿Ya los visitaste? ahí podrás encontrar cosas que probablemente
+	te sirvan C:
+Me preocupa un poquito el hecho de que no hayas hecho la tarea 1 que es lo único que te 
+faltaría, sí necesito que cheques por favor los pseudo-elementos. Aquí te dejo dos links
+en los que puedes consultar, cualquier duda, comentario o reclamo me avisas y con gusto 
+las resolveré.
+Que tengas buena semana y que vayan bien en el proyecto final.
+PD.No se olviden de CSS
