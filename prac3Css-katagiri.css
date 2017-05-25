@@ -1,0 +1,10 @@
+[href]{
+  color:#CC0000;
+}
+[href]:visited{
+  color:#CCCCCC;
+}
+[href]:hover{
+  color:#FFFFFF;
+  background-color:#CC0000;
+}

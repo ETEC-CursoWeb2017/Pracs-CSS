@@ -1,0 +1,22 @@
+#ide{
+  color:purple;
+}
+.akagaku{
+  background-color:red;
+}
+div span{
+  color:blue;
+}
+
+div > span{
+  
+  background-color:black;
+}
+
+p+div{
+  color:green;
+}
+a[href]{
+  color:yellow;
+}
+
